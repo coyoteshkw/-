@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://coyoteshkw.github.io/"/>
-  <updated>2018-07-06T13:14:41.000Z</updated>
+  <updated>2018-07-12T16:31:44.260Z</updated>
   <id>https://coyoteshkw.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python学习进度</title>
+    <link href="https://coyoteshkw.github.io/2018/07/12/python%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/"/>
+    <id>https://coyoteshkw.github.io/2018/07/12/python学习进度/</id>
+    <published>2018-07-12T15:42:23.000Z</published>
+    <updated>2018-07-12T16:31:44.260Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    最近真的没什么能= = ，不知道那些能从第一课开始记笔记的人是怎么记下来的….</p><p>​    不过我也是真的喜新厌旧，花了老大劲熬夜做完的博客，说懒得理就懒得理，不过希望编程还是永远不会忘记，无论将来会不会从事相关职业。</p><p>​    说正事</p><p>​    之前放一张图片</p><p><a href=""><img src="https://s1.ax1x.com/2018/07/13/PKe5NQ.md.png" alt="PKe5NQ.md.png"></a></p><p><code>书籍名称：简明python教程</code></p><p><code>格式：电子版</code></p><p><code>目前进度：模块章节</code></p><blockquote><p>过去学习的基本都已经复习完，大部分都能理解，应用估计还是个问题</p><p>模块章节过完以后就是完全没学过看过的内容了，但是不包括附录的话</p><p>仅剩下四章，如果智商没掉线的话应该不会很慢，然后会买python实践</p><p>和爬虫实战，这个暑假预计这些都是要学上一部分的，在这个过程中能确定自己是不是真的喜欢编程和智商能跟得上编程，如果脑子不好使的话还是好好学习。</p></blockquote><p>END</p><p>看起来莫名有点诀别意味….</p><p>暖一下场</p><p><a href="我骗你的"><img src="https://s1.ax1x.com/2018/07/13/PKeLuV.png" alt="我骗你的"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      近期摸鱼严重，还是描述一下近况吧...不然把博客做完了什么都不做感觉太奇怪了233333
+    
+    </summary>
+    
+      <category term="python" scheme="https://coyoteshkw.github.io/categories/python/"/>
+    
+    
+      <category term="测试" scheme="https://coyoteshkw.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇mrakdown文档测试</title>
