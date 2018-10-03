@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title>manjaro所需要的各种工具</title>
+      <link href="/2018/10/03/manjaro%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E5%90%84%E7%A7%8D%E5%B7%A5%E5%85%B7%EF%BC%88%E9%98%B2%E6%AD%A2%E8%87%AA%E5%B7%B1%E5%BF%98%E8%AE%B0%EF%BC%89/"/>
+      <url>/2018/10/03/manjaro%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E5%90%84%E7%A7%8D%E5%B7%A5%E5%85%B7%EF%BC%88%E9%98%B2%E6%AD%A2%E8%87%AA%E5%B7%B1%E5%BF%98%E8%AE%B0%EF%BC%89/</url>
+      <content type="html"><![CDATA[<h1 id="manjaro所需要的各种工具"><a href="#manjaro所需要的各种工具" class="headerlink" title="manjaro所需要的各种工具"></a>manjaro所需要的各种工具</h1><h2 id="安装篇"><a href="#安装篇" class="headerlink" title="安装篇"></a>安装篇</h2><h3 id="原装正版大家都爱的pacman"><a href="#原装正版大家都爱的pacman" class="headerlink" title="原装正版大家都爱的pacman"></a>原装正版大家都爱的pacman</h3><p>这不用说大家都懂吧？</p><p>优点：原版自带，调用方便，设置好国内源之后速度爆表</p><p>缺点：在我的电脑上总是出现各种小毛病，目前yaourt以及yay以及一些比较著名的软件总是装不上，不知道是我的问题还是官方不再维护，但那也不该不能下载啊？</p><p><img src="https://s1.ax1x.com/2018/10/03/i3rpcR.png" alt="会显示文件损坏，多次无解"></p><h3 id="没怎么用过的pip"><a href="#没怎么用过的pip" class="headerlink" title="没怎么用过的pip"></a>没怎么用过的pip</h3><p>不得不说pacman尽管在这我这里有诸多毛病，但是我还是最喜欢用它，也许只是习惯了吧，又或者毕竟配了那么久的源出了那么多的事，系统重装了2次，不用用简直对不起自己的良心</p><p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1538575717824&amp;di=42bb42ca5053e39649d167c4422aeb12&amp;imgtype=0&amp;src=http%3A%2F%2F02.imgmini.eastday.com%2Fmobile%2F20170808%2F20170808221127_90f921b1804643312e9673869cc8c8c8_8.jpeg" alt=""></p><p>但真实原因是我高估了arch系统，一直以为pip无法使用，不过事实证明完全可以，我拿来安装了一个命令行版本的网易云，不过由于是命令行版本，所以其他系统上能使用的别的软件这里是否会导致死机我拿不准</p><h3 id="孤儿yaourt"><a href="#孤儿yaourt" class="headerlink" title="孤儿yaourt"></a>孤儿yaourt</h3><p>我一直没能启用成功，挺遗憾的，不过听说了最近似乎yaourt停止维护了，但还是记录一下，也许以后换其他linux系统我能装上</p><h3 id="新秀aurman"><a href="#新秀aurman" class="headerlink" title="新秀aurman"></a>新秀aurman</h3><p>python编写的aur工具，用它实现了朝思暮想的vscode的安装</p><p>优点：使用同pacman一样方便，而且无需前缀sudo，更方便，搜索功能也很好用</p><p>缺点：有的国内软件无法搜索到，速度较pacman配置源后略慢</p><h2 id="使用篇"><a href="#使用篇" class="headerlink" title="使用篇"></a>使用篇</h2><h3 id="神奇的命令行搜索工具fzf"><a href="#神奇的命令行搜索工具fzf" class="headerlink" title="神奇的命令行搜索工具fzf"></a>神奇的命令行搜索工具fzf</h3><p>在下不才，还没能参透多少功能，所以这里恭恭敬敬的贴上链接</p><blockquote><p><a href="http://xingaiming.com/2018/04/shell%E5%BF%85%E5%A4%87%E5%88%A9%E5%99%A8-fzf-%E6%A8%A1%E7%B3%8A%E6%90%9C%E7%B4%A2/" target="_blank" rel="noopener">链接1</a></p><p><a href="https://blog.csdn.net/qq3401247010/article/details/78148294" target="_blank" rel="noopener">链接2</a></p></blockquote><h3 id="代码工具"><a href="#代码工具" class="headerlink" title="代码工具"></a>代码工具</h3><p>1.vscode</p><p>vscode的python插件还好用，这这个系统上的启用速度更快了，调试也比较方便，不过我想使用anaconda似乎还没有成功，界面友好，有中文很方便</p><p>2.pycharm</p><p>另外就是pycharm了，没有找到社区版本，只有必须付费版，最近剁手了无奈只能使用host再调用激活码，但还是很好用的，不过还是更喜欢vscode，网上已经有linux版本的汉化方法了，不过一直没去尝试，pycharm的设置中英文量巨大，没有汉化真的很伤</p><p>3.vim</p><p>作为编程新手，这令我畏惧的名词还是出现了，偶尔在遇到问题需要跟着大牛们的教程一步步解决的时候会撞上它，无奈只能搜索使用教程，毕竟大名鼎鼎，也许终有一天我也会用上它吧</p><p>4.sublime text3</p><p>windows系统上常用，后来运行出错了闲置，在manjaro中用来替代原文件编辑工具</p><h3 id="放松用软件"><a href="#放松用软件" class="headerlink" title="放松用软件"></a>放松用软件</h3><p>1.网易云音乐</p><p>官方版本和命令行版都下载了，命令行版本很炫酷但是目前我还没法让他发声，有时间会慢慢找原因</p><p>评论偶尔致癌，但是依然是一个用来放松的好东西，我也不怎么听热门曲，版权问题对我的影响不是很大，有版权需求的建议上qq音乐</p><p><a href="https://github.com/darknessomi/musicbox" target="_blank" rel="noopener">命令行版本的地址</a></p><p>2.steam</p><p>不多解释</p><p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1538577181813&amp;di=660e5efbcb54d9bbe11b24dbcc7aa221&amp;imgtype=0&amp;src=http%3A%2F%2Fimg0.178.com%2Fnews%2F201603%2F250972361654%2F250972638312.jpg" alt="还我血汗钱"></p><p>3.bilibili</p><p>是网页，偶尔看看喜欢的up主和学习知识，就这样</p><blockquote><p>引用：<a href="https://blog.csdn.net/was172/article/details/82826607" target="_blank" rel="noopener">https://blog.csdn.net/was172/article/details/82826607</a></p><p>​       <a href="https://www.jianshu.com/p/6e9eb98c0494" target="_blank" rel="noopener">https://www.jianshu.com/p/6e9eb98c0494</a></p><p>​       以及在推荐fzf时所链接的地址</p></blockquote>]]></content>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>关于学习</title>
       <link href="/2018/09/23/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/"/>
       <url>/2018/09/23/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0/</url>
